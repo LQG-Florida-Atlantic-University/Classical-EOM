@@ -4,3 +4,5 @@ Notations in Mathematica files: c[a] = \[Theta][a] = $\theta^a(e)$, and p[a] = $
 "JJ1.wl", "JJPhi1.wl", and "Trans1new.wl" store the formulae for matrices $J$, $\tilde{J}$ and $T$. 
 
 "new poisson_1.nb" is the Mathematica file for compute Poisson algebra of $\theta^a(e)$ and $p^a(e)$.
+
+"trans_new1.nb" Computes the matrix $T$ in the classical EOMs and demonstrates that the EOMs is equivalent to Hamiltonian equations
