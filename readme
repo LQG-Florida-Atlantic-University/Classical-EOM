@@ -1,7 +1,8 @@
 Notations in Mathematica files: c[a] = \[Theta][a] = $\theta^a(e)$, and p[a] = $p^a(e)$
 
-
 "JJ1.wl", "JJPhi1.wl", and "Trans1new.wl" store the formulae for matrices $J$, $\tilde{J}$ and $T$. 
+
+"J.nb" is the Mathematica file for computing matrices $J$ and $\tilde{J}$.
 
 "new poisson_1.nb" is the Mathematica file for compute Poisson algebra of $\theta^a(e)$ and $p^a(e)$.
 
