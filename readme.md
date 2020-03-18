@@ -1,0 +1,15 @@
+Notations in Mathematica files: c[a] = \[Theta][a] = <img src="/tex/ef5eefa9087e42b50181375d786e79d0.svg?invert_in_darkmode&sanitize=true" align=middle width=36.56539424999999pt height=24.65753399999998pt/>, and p[a] = <img src="/tex/3d9ca853239080ae2c7b135cf0e12792.svg?invert_in_darkmode&sanitize=true" align=middle width=36.66243404999999pt height=24.65753399999998pt/>
+
+"JJ1.wl", "JJPhi1.wl", and "Trans1new.wl" store the formulae for matrices <img src="/tex/8eb543f68dac24748e65e2e4c5fc968c.svg?invert_in_darkmode&sanitize=true" align=middle width=10.69635434999999pt height=22.465723500000017pt/>, <img src="/tex/86aa7d769ae41b760b561beb8d611acb.svg?invert_in_darkmode&sanitize=true" align=middle width=12.19759034999999pt height=30.267491100000004pt/> and <img src="/tex/2f118ee06d05f3c2d98361d9c30e38ce.svg?invert_in_darkmode&sanitize=true" align=middle width=11.889314249999991pt height=22.465723500000017pt/>. 
+
+"data.zip" stores all needed data for compute Thiemann's Lorenztian Hamiltonian. 
+
+"J.nb" is the Mathematica file for computing matrices <img src="/tex/8eb543f68dac24748e65e2e4c5fc968c.svg?invert_in_darkmode&sanitize=true" align=middle width=10.69635434999999pt height=22.465723500000017pt/> and <img src="/tex/86aa7d769ae41b760b561beb8d611acb.svg?invert_in_darkmode&sanitize=true" align=middle width=12.19759034999999pt height=30.267491100000004pt/>.
+
+"new poisson_1.nb" is the Mathematica file for compute Poisson algebra of <img src="/tex/ef5eefa9087e42b50181375d786e79d0.svg?invert_in_darkmode&sanitize=true" align=middle width=36.56539424999999pt height=24.65753399999998pt/> and <img src="/tex/3d9ca853239080ae2c7b135cf0e12792.svg?invert_in_darkmode&sanitize=true" align=middle width=36.66243404999999pt height=24.65753399999998pt/>.
+
+"trans_new1.nb" computes the matrix <img src="/tex/2f118ee06d05f3c2d98361d9c30e38ce.svg?invert_in_darkmode&sanitize=true" align=middle width=11.889314249999991pt height=22.465723500000017pt/> in the classical EOMs and demonstrates that the EOMs is equivalent to Hamiltonian equations. It also includes the expansion of <img src="/tex/2f118ee06d05f3c2d98361d9c30e38ce.svg?invert_in_darkmode&sanitize=true" align=middle width=11.889314249999991pt height=22.465723500000017pt/> in terms of <img src="/tex/07617f9d8fe48b4a7b3f523d6730eef0.svg?invert_in_darkmode&sanitize=true" align=middle width=9.90492359999999pt height=14.15524440000002pt/> for the lattice continuum limit.
+
+"action.nb" computes the time continuous limit of the action, and the Poisson algebra between <img src="/tex/35db98adf6aedebf617da0dbea567cec.svg?invert_in_darkmode&sanitize=true" align=middle width=22.039049999999992pt height=22.465723500000017pt/> and <img src="/tex/07d3c78740c7fd2ffefb14bbe803a694.svg?invert_in_darkmode&sanitize=true" align=middle width=15.303910049999992pt height=22.831056599999986pt/>.
+
+"ctHL.nb" computes the space continuum limit of the extrinsik curvature <img src="/tex/e3697fac26ec226d3d8778f55849bbe0.svg?invert_in_darkmode&sanitize=true" align=middle width=22.267381949999987pt height=22.465723500000017pt/> (stored in "kia.wl") and Thiemann's Lorenztian Hamiltonian. 
