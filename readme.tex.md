@@ -1,4 +1,4 @@
-Notations in Mathematica files: c[a] = \[Theta][a] = $\theta^a(e)$, and p[a] = $p^a(e)$
+Notations in Mathematica files: c[a] = $\theta$[a] = $\theta^a(e)$, and p[a] = $p^a(e)$
 
 "JJ1.wl", "JJPhi1.wl", and "Trans1new.wl" store the formulae for matrices $J$, $\tilde{J}$ and $T$. 
 
