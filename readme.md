@@ -12,4 +12,4 @@ Notations in Mathematica files: c[a] = <img src="/tex/27e556cf3caa0673ac49a8f0de
 
 "action.nb" computes the time continuous limit of the action, and the Poisson algebra between <img src="/tex/35db98adf6aedebf617da0dbea567cec.svg?invert_in_darkmode&sanitize=true" align=middle width=22.039049999999992pt height=22.465723500000017pt/> and <img src="/tex/07d3c78740c7fd2ffefb14bbe803a694.svg?invert_in_darkmode&sanitize=true" align=middle width=15.303910049999992pt height=22.831056599999986pt/>.
 
-"ctHL.nb" computes the space continuum limit of the extrinsik curvature <img src="/tex/e3697fac26ec226d3d8778f55849bbe0.svg?invert_in_darkmode&sanitize=true" align=middle width=22.267381949999987pt height=22.465723500000017pt/> (stored in "kia.wl") and Thiemann's Lorenztian Hamiltonian. 
+"ctHL.nb" computes the space continuum limit of the extrinsic curvature <img src="/tex/e3697fac26ec226d3d8778f55849bbe0.svg?invert_in_darkmode&sanitize=true" align=middle width=22.267381949999987pt height=22.465723500000017pt/> (stored in "kia.wl") and Thiemann's Lorenztian Hamiltonian. 
